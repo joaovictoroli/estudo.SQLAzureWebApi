@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SaHiXd9h9OUeN3clt2+JNRFYzvoSfdOC/G7UsBfhATw=",
+  "Source": "WebApiSqlAzure",
+  "BasePath": "_content/WebApiSqlAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
